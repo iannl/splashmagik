@@ -24,7 +24,7 @@ onload=function(){this.document.head.innerHTML+='<style>'+styles+'</style>'}
 
 var styles=`
 :root {
-    --background-body: #eee;
+    --background-body: #fff;
     --background: #efefef;
     --background-alt: #f7f7f7;
     --selection: #9e9e9e;
